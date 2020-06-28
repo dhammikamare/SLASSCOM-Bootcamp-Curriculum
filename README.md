@@ -66,7 +66,7 @@ This curriculum is built based on the following ground principles. If you wish t
 
 This repository is maintained as a community effort in the industry. If you like to contribute, please go through the following link:
 
-[Guide for contributors](./CONTRIBUTING.md)
+[Guide for contributors](CONTRIBUTING.md)
 
 ## Related links
 
